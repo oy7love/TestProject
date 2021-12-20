@@ -3,6 +3,7 @@ public class test {
         for(int i=1;i<=10;i++){
             int a = dG(i);
             System.out.println(a);
+            System.out.println("1321");
         }
 
     }
